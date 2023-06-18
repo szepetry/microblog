@@ -3,7 +3,7 @@
 - Name: Aryan Jalali
 - Email: aj3085@columbia.edu
 
-![microblog](https://github.com/szepetry/microblog/assets/work_proof.png)
+![microblog](https://github.com/szepetry/microblog/blob/main/assets/work_proof.png)
 
 ## Goal
 Your task is to update the home page of this Flask app to display all of the rows in the blog posts table instead of just the static single row.
